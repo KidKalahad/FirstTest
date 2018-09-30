@@ -1,6 +1,3 @@
 blablalba
-<<<<<<< HEAD
-ça fait quoi si c'est pas mergé?
-=======
 je le change
->>>>>>> 2b599f0c8db11ebef99080f3acb2daa694d24f75
+ça fait quoi si c'est pas mergé?
